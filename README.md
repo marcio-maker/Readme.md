@@ -1,23 +1,22 @@
 # readme.md
-Projeto_Dev
+Projeto Dev !
+Esta sendo um desafio pois, minha area de conhecimento é completamente diferente, começei com esse hobby de codar na pandemia. Desde então estou descobrindo um novo mundo, através da linguagem da programação.
 
-## _Processo de Desenvolvimento e Aprendizagem_ 
+## _Metodologia de aprendizagem_ 
 *  cursos
 *  videos
 *  exercícios 
 *  leitura 
-### _Start for HTML, CSS e JavaScript e Lógica de Programação_ :ledger:
-1.  learning Git 
-2.  learning GitHub
-3.  tags html, css, git... 
 
-<a href="https://www.imagensanimadas.com/cat-robos-118.htm"><img src="https://www.imagensanimadas.com/data/media/118/robo-imagem-animada-0014.gif" border="0" alt="robo-imagem-animada-0014" /></a>
 
-Evolution
-Codigos | Nota                   
+<a href= "https://th.bing.com/th/id/R.ed368c0c30727cb54471a6832e0b68f6?rik=Swg5LWLEK1X6Pg&pid=ImgRaw&r=0"><img src="https://th.bing.com/th/id/R.ed368c0c30727cb54471a6832e0b68f6?rik=Swg5LWLEK1X6Pg&pid=ImgRaw&r=0" /></a>
+
+O que estou aprendendo.
+
+Códigos | Dificuldade                 
 ------- | ----------             
-Html    | 6
-Css     | 4
+Html    | 5
+Css     | 5
 JS      | 2
+Python  | 3
 
-###### > working in progress
