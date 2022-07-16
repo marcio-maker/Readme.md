@@ -1,8 +1,15 @@
 # readme.md
-Projeto Dev !
-Esta sendo um desafio pois, minha area de conhecimento é completamente diferente, começei com esse hobby de codar na pandemia. Desde então estou descobrindo um novo mundo, através da linguagem da programação.
+ Projeto Dev 🎯!
 
-## _Metodologia de aprendizagem_ 
+This project´s a Big challenge for me💪.
+
+My area of knowledge´s completly different💈.
+
+I started this hobby💻 since the pandemic🦠.
+
+Since then I´m discovering a new World 🗺️.
+
+## My method
 *  cursos
 *  videos
 *  exercícios 
@@ -11,12 +18,12 @@ Esta sendo um desafio pois, minha area de conhecimento é completamente diferent
 
 <a href= "https://th.bing.com/th/id/R.ed368c0c30727cb54471a6832e0b68f6?rik=Swg5LWLEK1X6Pg&pid=ImgRaw&r=0"><img src="https://th.bing.com/th/id/R.ed368c0c30727cb54471a6832e0b68f6?rik=Swg5LWLEK1X6Pg&pid=ImgRaw&r=0" /></a>
 
-O que estou aprendendo.
+I´m learning
 
-Códigos | Dificuldade                 
-------- | ----------             
-Html    | 5
-Css     | 5
-JS      | 2
-Python  | 3
+Code    |  Order           
+------- | --------            
+Html    | 1
+Css     | 2
+JS      | 3
+Python  | 4
 
