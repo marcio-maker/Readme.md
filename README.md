@@ -1,13 +1,7 @@
 # readme.md
  Projeto Dev 🎯!
 
-This project´s a Big challenge for me.
-
-My area of knowledge´s completly different.
-
-I started this hobby, since the pandemic.
-
-Since then I´m discovering a new World .
+I started this project and set myself a big challenge. My area of knowledge´s completly different. I started coding, since in the pandemic. Since then I´m discovering a new World the programation.
 
 ## methodology
 *  online courses
