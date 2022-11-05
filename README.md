@@ -1,13 +1,13 @@
 # readme.md
  Projeto Dev 🎯!
 
-This project´s a Big challenge for me💪.
+This project´s a Big challenge for me.
 
-My area of knowledge´s completly different💈.
+My area of knowledge´s completly different.
 
-I started this hobby💻 since the pandemic🦠.
+I started this hobby, since the pandemic.
 
-Since then I´m discovering a new World 🗺️.
+Since then I´m discovering a new World .
 
 ## My method
 *  cursos
