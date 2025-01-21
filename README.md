@@ -2,7 +2,7 @@
 
 Amazing Code!
 
-Hello, my name is Márcio Gemelli, I am 41 years old and I am passionate about transformation and evolution. My journey began as a hairstyle and visagist, where I gained extensive experience in creating unique and personalized styles, always enhancing the beauty and individuality of each client.
+Hello, my name is Márcio Gemelli, I am 41 years old and I am passionate about transformation and evolution. My journey began as a man hairdresser and visagist, where I gained extensive experience in creating unique and personalized styles, always enhancing the beauty and individuality of each client.
 
 I spent a considerable time living in Europe, where I had the opportunity to expand my horizons and gain new perspectives. Now, I am back in Brazil, living in São Paulo, and I continue my relentless pursuit of growth and innovation.
 
