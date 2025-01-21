@@ -2,9 +2,13 @@
 
 Amazing Code!
 
-I started this project and set myself a big challenge. My area of knowledge´s completly different. I started coding, since in the pandemic 2019. Since then I´m discovering a new World the programation. 
-"In addition to being a programming enthusiast, I am an hairdresser and visagist with extensive experience in creating unique and personalized styles that enhance the beauty and individuality of each client."
-Now, I am transitioning into the tech world, focusing on AI, UX, programming, and full stack development."
+Hello, my name is Márcio Gemelli, I am 41 years old and I am passionate about transformation and evolution. My journey began as a hairdresser and visagist, where I gained extensive experience in creating unique and personalized styles, always enhancing the beauty and individuality of each client.
+
+I spent a considerable time living in Europe, where I had the opportunity to expand my horizons and gain new perspectives. Now, I am back in Brazil, living in São Paulo, and I continue my relentless pursuit of growth and innovation.
+
+During the pandemic, I discovered a new passion: programming. Since then, I have immersed myself in this universe, constantly learning and challenging myself. This journey has led me to explore and specialize in incredible areas such as Artificial Intelligence, UX, programming, and full stack development.
+
+Now, I am determined to combine my creativity and technical skills to make a difference in the tech world. I believe that my diverse experience allows me to bring a unique and innovative perspective to every project I am involved in.
 
 ## methodology
 *  Online courses
