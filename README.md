@@ -1,5 +1,7 @@
 
+
 # Hi, I'm Márcio Gemelli <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
@@ -27,7 +29,7 @@
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
-progress
+## In progress
 
 Code    |  Order           
 ------- | --------            
@@ -37,3 +39,7 @@ JS      | 3
 Python  | 4
 ux/ui   | 5
 figma   | 6
+
+<p align="left">Hello World!!</p>
+
+###
