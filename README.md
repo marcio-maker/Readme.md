@@ -12,6 +12,11 @@
 *  Lectures
 *  School Infinity
 
+## Quem sou eu
+
+Entusiasta da tecnologia, transformando ideias em código e sempre em busca de novos desafios.
+
+## In progress
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png">
@@ -29,13 +34,4 @@
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
-## In progress
-
-Code    |  Order           
-------- | --------            
-Html    | 1
-Css     | 2
-JS      | 3
-Python  | 4
-ux/ui   | 5
-figma   | 6
+  
