@@ -5,13 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-## My Methodology
-*  Online courses
-*  Videos
-*  Exercises
-*  Lectures
-*  School Infinity
-
 ## Quem sou eu
 
 Entusiasta da tecnologia, transformando ideias em código e sempre em busca de novos desafios.
@@ -34,4 +27,9 @@ Entusiasta da tecnologia, transformando ideias em código e sempre em busca de n
   <img align="center" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   </div>
 
-  
+  ## My Methodology
+*  Online courses
+*  Videos
+*  Exercises
+*  Lectures
+*  School Infinity
