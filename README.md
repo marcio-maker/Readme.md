@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-## methodology
+## My Methodology
 *  Online courses
 *  Videos
 *  Exercises
@@ -39,7 +39,3 @@ JS      | 3
 Python  | 4
 ux/ui   | 5
 figma   | 6
-
-<p align="left">Hello World!!</p>
-
-###
