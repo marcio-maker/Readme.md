@@ -1,6 +1,4 @@
 
-Claro! Aqui está um exemplo de um arquivo README.md que tem um design moderno e profissional, destacando suas habilidades e destrezas. Você pode personalizar as seções conforme necessário:
-arkdown
 🌟 Bem-vindo ao meu GitHub! 🌟
 👨‍💻 Sobre Mim
 Sou um desenvolvedor apaixonado com experiência em HTML, CSS, JavaScript, e Python. Estou sempre em busca de novos desafios e aprendizado contínuo. Meu objetivo é criar soluções inovadoras que transformem ideias em realidade.
