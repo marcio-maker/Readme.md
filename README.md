@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-I'm a **tech and design enthusiast** passionate about learning and creating. 
+I'm a **Ia, tech and design enthusiast** passionate about learning and creating. 
 
 ## 🚀 Skills I'm Developing
 - HTML
@@ -9,5 +9,6 @@ I'm a **tech and design enthusiast** passionate about learning and creating.
 - Python
 - Figma
 - UX Design
+- Ia
 
 Feel free to explore my projects and connect with me!
