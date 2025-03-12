@@ -9,6 +9,6 @@ I'm a **Ia, tech and design enthusiast** passionate about learning and creating.
 - Python
 - Figma
 - UX Design
-- Ia
+- IA
 
 Feel free to explore my projects and connect with me!
