@@ -56,11 +56,13 @@ Aqui estão alguns dos projetos que demonstram minhas habilidades e paixão por 
 
 Se você busca alguém que una **design, tecnologia e inteligência artificial** para criar **soluções visuais impactantes e funcionais**, ficaria feliz em conectar e discutir como minhas habilidades podem agregar valor à sua equipe.
 
-📧 **Email:** marciomaker@seuemail.com    
-🌐 **Portfólio:** [seusite.com](https://seusite.com)    
-🔗 **LinkedIn:** [linkedin.com/in/seunome](https://linkedin.com/in/seunome)    
-📸 **Instagram:** [instagram.com/seuperfil](https://instagram.com/seuperfil)
-
+📧 **Email:** ma.gemelli2020@gmail.com
+🌐 **Portfólio:** [Site](https://github.com/marcio-maker)
+🔗 **LinkedIn:** [LinkedIn](www.linkedin.com/in/márciogemelli)
+📸 **Instagram:** [Instagram](https://www.instagram.com/marcio_.dev/)
+📘 **Facebook:** [Facebook](https://www.facebook.com/marcio.dev.2025/)
+🎨 **Behance:** [Behance](https://www.behance.net/0faa6a9e)
+📐 **Figma:** [Figma](https://www.figma.com/@marciogemelli)
 ---
 
 > 💬 *“A beleza sem inteligência é superficial. A tecnologia sem design é invisível. Mas juntos, transformam experiências.”*
