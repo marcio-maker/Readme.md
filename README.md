@@ -1,51 +1,67 @@
-# 👋 Olá! Eu sou o Márcio Maker
+<!-- Banner opcional -->
+<p align="center">
+  <img src="https://via.placeholder.com/900x250.png?text=M%C3%A1rcio+Maker+-+Criador+Full+Stack+%7C+Visagismo+%2B+Tecnologia" alt="Banner Márcio Maker" />
+</p>
 
-🎨 Apaixonado por **Design**, 💻 **Tecnologia** e 🤖 **Inteligência Artificial**  
-Criador de experiências digitais que unem **beleza + funcionalidade + inovação**.
+# 👋 Olá! Eu sou o **Márcio Maker**
+
+💡 **Criador de experiências que combinam tecnologia, beleza e inteligência artificial.**  
+Tenho uma trajetória única que une o **visagismo profissional** com o **desenvolvimento web moderno**, voltado para produtos digitais com impacto visual e funcional.
 
 ---
 
-## 🚀 Em Desenvolvimento
+## 🧠 Sobre mim
+
+- 🔧 Desenvolvedor Full Stack em formação (Python, JavaScript, HTML/CSS, Flask)
+- 🎨 Especialista em visagismo, colorimetria e cortes nacionais/internacionais
+- 🤖 Explorador de IA para soluções criativas, personalização e automação
+- 📱 Foco em design responsivo, mobile-first e interfaces inteligentes
+- 🌍 Experiência internacional (10 anos na Europa) e visão global de estética e UX
+
+---
+
+## 🚀 Habilidades em evolução
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat&logo=python)
-![Figma](https://img.shields.io/badge/Figma-Design-red?style=flat&logo=figma)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-Centered-lightgrey?style=flat&logo=uxdesign)
+![Flask](https://img.shields.io/badge/Flask-API-white?style=flat&logo=flask)
+![Figma](https://img.shields.io/badge/Figma-UX%2FUI-purple?style=flat&logo=figma)
+![IA](https://img.shields.io/badge/IA-Integrada-black?style=flat&logo=openai)
 
 ---
 
-## 🧠 Skills e Conhecimentos
+## 🎯 O que eu entrego
 
-| Linguagem / Ferramenta | Nível Atual | Aprendendo |
-|------------------------|-------------|------------|
-| HTML                   | ⭐⭐⭐⭐☆      | ✔️         |
-| CSS                    | ⭐⭐⭐⭐☆      | ✔️         |
-| JavaScript             | ⭐⭐⭐☆☆      | ✔️         |
-| Python                 | ⭐⭐⭐☆☆      | ✔️         |
-| Flask                  | ⭐⭐☆☆☆      | ✔️         |
-| Figma / UX Design      | ⭐⭐⭐⭐☆      | ✔️         |
-| IA / Prompt Design     | ⭐⭐⭐⭐☆      | ✔️         |
+| 💼 Serviços | ✨ Diferenciais |
+|------------|----------------|
+| Desenvolvimento de sites e apps com identidade visual forte | Background profissional em **imagem pessoal e estética** |
+| Prototipação UX/UI com Figma | Mistura de **design estratégico + experiência real com público final** |
+| Consultoria de visagismo assistida por IA | **Alta personalização**, conectando beleza, estilo e tecnologia |
+| Produtos digitais: eBooks, sistemas, apps de recomendação visual | Pensamento de produto completo: **ideia → execução** |
 
 ---
 
-## 💼 Projetos & Interesses
+## 📌 Destaques e projetos
 
-- ✨ Consultoria de imagem com IA e visagismo
-- 🧩 Aplicações web personalizadas com HTML/CSS/JS + Python
-- 🧠 Criação de conteúdo educacional para o mundo da beleza
-- 📱 Design responsivo e experiências mobile-first
-- 🏡 Desenvolvimento de pousadas e turismo com identidade digital
-
----
-
-## 🌐 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/seunome)  
-[![Instagram](https://img.shields.io/badge/Instagram-@seuperfil-E4405F?style=flat&logo=instagram)](https://instagram.com/seuperfil)  
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Acessar-green?style=flat&logo=github)](https://seusite.com)  
+- 🧩 **VisagePro** — Aplicativo de consultoria capilar com IA  
+- 🛠️ Portfólio técnico com projetos em Flask + Front-End responsivo  
+- 🧠 eBooks interativos sobre beleza, visagismo e tecnologia  
+- 💻 Protótipos com animações GSAP, interfaces intuitivas e design clean
 
 ---
 
-> 💬 “A tecnologia por si só não é suficiente. Também temos que colocar o coração.” – Steve Jobs
+## 📫 Vamos conversar?
+
+Se você busca alguém que una **design, tecnologia e inteligência artificial** para criar **soluções visuais impactantes e funcionais**, você está no lugar certo.
+
+📧 marciomaker@seuemail.com  
+🌐 [Portfólio](https://seusite.com)  
+🔗 [LinkedIn](https://linkedin.com/in/seunome)  
+📸 [Instagram](https://instagram.com/seuperfil)
+
+---
+
+> 💬 *“A beleza sem inteligência é superficial. A tecnologia sem design é invisível. Mas juntos, transformam experiências.”*
+
