@@ -1,9 +1,12 @@
 <!-- Banner opcional -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x250.png?text=M%C3%A1rcio+Maker+-+Criador+Full+Stack+%7C+Visagismo+%2B+Tecnologia" alt="Banner Márcio Maker" />
+  <img src="https://static01.nyt.com/images/2020/01/01/business/01Techfix-print/01Techfix-print-superJumbo.gif" alt="Banner Márcio Maker" />
 </p>
 
-# 👋 Olá! Eu sou o **Márcio Maker**
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>  
+  Olá! Eu sou o <strong>Márcio Maker</strong>
+</h1>
 
 💡 **Criador de experiências que combinam tecnologia, beleza e inteligência artificial.**  
 Tenho uma trajetória única que une o **visagismo profissional** com o **desenvolvimento web moderno**, voltado para produtos digitais com impacto visual e funcional.
